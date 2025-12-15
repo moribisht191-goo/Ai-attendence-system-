@@ -3,3 +3,4 @@ face-recognition
 opencv-python
 pandas
 numpy
+dlib==19.24.2
